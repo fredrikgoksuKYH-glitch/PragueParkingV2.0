@@ -1,0 +1,7 @@
+﻿{
+    "totalSpots": 100,
+    "VehiclesPerSpot": {
+        "Bil": 1,
+        "MC": 2
+    }
+}

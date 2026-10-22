@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="Dokumentation.md" />
+  </Folder>
+  <Project Path="PragueParking.Data/PragueParking.Data.csproj" />
+  <Project Path="PragueParkingApp/PragueParkingApp.csproj" />
+  <Project Path="PragueParkingCore/PragueParkingCore.csproj" />
+</Solution>
